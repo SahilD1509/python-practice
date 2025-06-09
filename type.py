@@ -1,0 +1,8 @@
+temp = float(102.6)
+print(type(temp))
+temp = float(102.6)
+print(type(temp))
+temp = str(102.6)
+print(type(temp))
+temp = int(102.6)
+print(type(temp))
