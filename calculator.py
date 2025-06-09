@@ -1,4 +1,5 @@
-# Simple calculator that evaluates user input expressions
+#Basic Calculator Program
+#enter expressiona and get results
 
 def main():
     print("Simple Calculator (type 'exit' to quit)")
